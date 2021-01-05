@@ -4,3 +4,4 @@ bug fixed
 "This is done by teammates"
 bug1 fixed
 change three way.... bug2
+Change By team mate before CR1 and no arrows
