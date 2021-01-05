@@ -2,3 +2,5 @@ hello world..
 text changed
 bug fixed
 "This is done by teammates"
+bug1 fixed
+change three way.... bug2
