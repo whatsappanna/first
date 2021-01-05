@@ -1,3 +1,4 @@
 hello world..
 text changed
-bug fixed
+bug1 fixed
+change three way.... bug2
