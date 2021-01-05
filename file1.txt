@@ -1,7 +1,8 @@
-hello world..
-text changed
-bug fixed
-"This is done by teammates"
-bug1 fixed
-change three way.... bug2
-Change By team mate before CR1 and no arrows
+>hello world..
+>text changed
+>bug fixed
+>"This is done by teammates"
+>bug1 fixed
+>change three way.... bug2
+>Change By team mate before CR1 and no arrows
+>Change : to work on CR1 and added greated sign
